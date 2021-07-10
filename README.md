@@ -5,6 +5,8 @@
 
 <img src="./images/hero.svg" align="right" width="400" height="400" />
 
+<h3>
+
 👨‍💻 I'm a back-end developer passionate about what I do, and every day I try to specialize myself more and more.
 
 🌱 Learning TDD, Typescript, NodeJS, NestJS, Docker and Coding Best Practices. 
@@ -13,6 +15,9 @@
 
 ⚡ Technologies: Typescript, Databases, Message Brokers.
 
+</h3>
+
+## I'm currently 
 <br/>
 
 <div>
@@ -22,7 +27,8 @@
 </div>
 
 <br/><br/>
-  <strong>Contact me!</strong>
+
+### Contact Me!
  <p align="left">
   <a href="https://www.linkedin.com/in/pedro-vitor-09663919a" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vitor-09663919a"></a>   
   </p>
