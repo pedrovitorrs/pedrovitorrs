@@ -22,9 +22,9 @@
 </div>
 
 <br/><br/>
-<strong>Contact me!</strong>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-vitor-09663919a" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vitor-09663919a"></a>   
+  <strong>Contact me!</strong>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/pedro-vitor-09663919a" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vitor-09663919a"></a>   
   </p>
 </p>
 
