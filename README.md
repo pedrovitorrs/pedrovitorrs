@@ -2,7 +2,7 @@
 
 👨‍💻 Sou um desenvolvedor back-end apaixonado pelo que faço, e a cada dia procuro me especializar cada vez mais.
 
-🌱 Aprendendo: DDD, .NET, OpenAPI, Docker e melhores práticas de codificação.
+🌱 Aprendendo: DDD, OAuth 2.0, OpenAPI, Docker e melhores práticas de codificação.
 
 💬 Pergunte-me sobre hobbies, processos de aprendizado de máquina, análise de dados ou saúde mental.
 
