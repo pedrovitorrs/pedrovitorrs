@@ -1,19 +1,16 @@
-# About me
+# Sobre mim
 
-*If you do not study for the future you want, you will be obliged to accept whatever comes!*
-</br>
+👨‍💻 Sou um desenvolvedor back-end apaixonado pelo que faço, e a cada dia procuro me especializar cada vez mais.
 
-👨‍💻 I'm a back-end developer passionate about what I do, and every day I try to specialize myself more and more.
+🌱 Aprendendo DDD, .NET, OpenAPI, Docker e melhores práticas de codificação.
 
-🌱 Learning TDD, Typescript, NodeJS, NestJS, Docker and Coding Best Practices. 
+💬 Pergunte-me sobre hobbies, processos de aprendizado de máquina, análise de dados ou saúde mental.
 
-💬 Ask me about creating hobbies, machine learning processes, data analysis or mental health.
-
-⚡ Technologies: Typescript, Databases, Message Brokers.
+⚡ Technologies: C#, SQL Server e .NET.
 
 </br>
 
-## I'm currently 
+## Atualmente
 <div>
     <a href="https://github.com/pedrovitorrs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,7 +18,7 @@
 </div>
 </br>
 
-### Contact Me!
+### Contate-me!
  <p align="left">
   <a href="https://www.linkedin.com/in/pedro-vitor-09663919a" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-vitor-09663919a"></a>   
   </p>
